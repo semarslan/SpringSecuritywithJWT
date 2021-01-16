@@ -30,5 +30,6 @@ public class AuthController {
         }catch (Exception e) {
             throw e;
         }
+
     }
 }
